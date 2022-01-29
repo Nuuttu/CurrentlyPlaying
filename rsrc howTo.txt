@@ -1,0 +1,3 @@
+go get github.com/akavel/rsrc
+
+rsrc -manifest nve.manifest -ico ico256.ico -o rsrc.syso
